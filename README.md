@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is <b>Anan</b> and I'm a <b>Software Engineering student</b>, from Kenya</p>
+<p align="left">My name is <b>Anan</b> and I'm a <b>Software Engineering student</b> at <b>Zetech University</b>, from Kenya</p>
 
 ###
 
